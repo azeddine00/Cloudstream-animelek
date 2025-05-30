@@ -6,7 +6,7 @@
       "name": "AnimeLek",
       "description": "مشاهدة وتحميل الأنمي من موقع AnimeLek",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/azeddine00/cloudstream-animelek/main/repo.json",
+      "url": https://raw.githubusercontent.com/azeddine00/cloudstream-animelek/main/repo.json
       "languages": ["ar"],
       "types": ["anime"]
     }
