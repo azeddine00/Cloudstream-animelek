@@ -1,0 +1,14 @@
+
+{
+  "name": "AnimeLek Repo",
+  "plugins": [
+    {
+      "name": "AnimeLek",
+      "description": "مشاهدة وتحميل الأنمي من موقع AnimeLek",
+      "version": 1,
+      "url": "https://example.com/AnimeLek.cs3",
+      "languages": ["ar"],
+      "types": ["anime"]
+    }
+  ]
+}
